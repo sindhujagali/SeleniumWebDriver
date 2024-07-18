@@ -20,8 +20,8 @@ public class FirstTestCase {
 		
 		//Launch browser:--		
 		  //ChromeDriver driver=new ChromeDriver();//This also correct
-		//WebDriver driver=new ChromeDriver();
-			WebDriver driver= new EdgeDriver();
+		WebDriver driver=new ChromeDriver();
+		//	WebDriver driver= new EdgeDriver();
 	//Open URL:--       
 		   driver.get("https://www.amazon.in/");
 		

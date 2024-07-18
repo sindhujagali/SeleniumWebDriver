@@ -16,7 +16,7 @@ public class SecondTestCase {
 
 	public static void main(String[] args) {
 
-		WebDriver driver=new EdgeDriver();
+		WebDriver driver=new ChromeDriver();
 		driver.get("https://demo.nopcommerce.com/");
 		
 		System.out.println(driver.getTitle());

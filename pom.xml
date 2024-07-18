@@ -2,8 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>SeleniumWebDriver</groupId>
   <artifactId>SeleniumWebDriver</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  
+  <version>0.0.1-SNAPSHOT</version>  
   <dependencies>
   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
@@ -11,8 +10,6 @@
     <artifactId>selenium-java</artifactId>
     <version>4.22.0</version>
 </dependency>
-  
-  
-  
+
   </dependencies>
 </project>
